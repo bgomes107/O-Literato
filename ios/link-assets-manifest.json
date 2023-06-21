@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/frenchpress.otf",
+      "sha1": "4634d8694114e0b8b5f9e57e154203a772579329"
+    },
+    {
+      "path": "src/assets/fonts/icons.ttf",
+      "sha1": "b63ef66013b0a19782a31f241860a3fd6cc7463b"
+    }
+  ]
+}
