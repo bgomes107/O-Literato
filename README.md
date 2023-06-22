@@ -33,6 +33,6 @@ Um app de poemas com recursos de local storage, compartilhamento de texto via Sh
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237481_framed.png'/>
     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237504_framed.png'/>
      <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237595_framed.png'/>
      <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
 </div>
