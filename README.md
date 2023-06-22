@@ -1,6 +1,6 @@
 ### O-Literato
 
-Um app de poemas com recursos de local storage, compartilhamento de texto via Share do react-native, local push notifications com agendamento de horário e pesquisa de texto por palavra-chave.
+Um app de poemas com recursos de local storage, compartilhamento de texto via Share do react-native, local push notifications com agendamento de horário, Context API e pesquisa de texto por palavra-chave.
 
 ### Dependências utilizadas no projeto:
 
