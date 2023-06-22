@@ -2,6 +2,17 @@
 
 Um app de poemas com recursos de local storage, compartilhamento de texto via Share do react-native, local push notifications com agendamento de horário, Context API e pesquisa de texto por palavra-chave.
 
+### Screenshots:
+
+<div style='display: inline_block'>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237533_framed.png'/> 
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237481_framed.png'/>
+    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237504_framed.png'/>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237595_framed.png'/>
+     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683241190_framed.png'/>
+</div>
+
 ### Dependências utilizadas no projeto:
 
 <ul>
@@ -26,13 +37,4 @@ Um app de poemas com recursos de local storage, compartilhamento de texto via Sh
      <li>"react-native-vector-icons": "^9.2.0"</li>
 </ul> 
 
-### Screenshots:
 
-<div style='display: inline_block'>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237533_framed.png'/> 
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237481_framed.png'/>
-    <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237504_framed.png'/>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237562_framed.png'/>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683237595_framed.png'/>
-     <img style='height:150px' align='center' alt='image' src='https://github.com/bgomes107/O-Literato/blob/master/screenshots/Screenshot_1683241190_framed.png'/>
-</div>
