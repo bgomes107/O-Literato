@@ -1,1 +1,3 @@
-const DATA = [{}]
+const DATA = [{}];
+
+export default DATA;
