@@ -1,4 +1,4 @@
-### O-Literato
+### Poemas
 
 Um app de poemas com recursos de local storage, compartilhamento de texto via Share do react-native, local push notifications com agendamento de horário, Context API e pesquisa de texto por palavra-chave.
 
